@@ -1,8 +1,8 @@
 # mosaicTool
 Creates photomosaics. Recreates an image by building it up out of many smaller images
 
-<img src="/images/mosaicA.bmp" width=50%/><img src="/images/mosaicB.bmp" width=50%/>
-<img src="/images/mosaicC.bmp" width=50%/>
+<img src="/images/mosaicA.png" width=50%/><img src="/images/mosaicB.png" width=50%/>
+<img src="/images/mosaicC.png" width=50%/>
 
 ### Supports:
 * Area lights
