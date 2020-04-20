@@ -4,15 +4,6 @@ Creates photomosaics. Recreates an image by building it up out of many smaller i
 <img src="/images/mosaicA.png" width=48%/><img src="/images/mosaicC.png" width=51%/>
 <img src="/images/mosaicB.png" width=50%/>
 
-### Supports:
-* Area lights
-* Sphere lights
-* OBJ polygon geometry
-* Ljcambert diffuse surfaces
-* Specular Surfaces
-* Homogeneous, isotropic participating media
-* Homogoenous, isotropic subsurface scattering
-
 ### Dependencies:
 * ImageMagick
 * jc_voronoi (https://github.com/JCash/voronoi)
