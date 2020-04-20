@@ -1,7 +1,7 @@
 # mosaicTool
 Creates photomosaics. Recreates an image by building it up out of many smaller images (photographs not mine)
 
-<img src="/images/mosaicC.png" width=50%/><img src="/images/mosaicA.png" width=50%/>
+<img src="/images/mosaicA.png" width=50%/><img src="/images/mosaicC.png" width=53%/>
 <img src="/images/mosaicB.png" width=50%/>
 
 ### Supports:
